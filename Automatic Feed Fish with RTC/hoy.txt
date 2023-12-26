@@ -1,0 +1,9 @@
+analog 4 SDA
+analog 5 SCL
+
+servo :
+a. kabel coklat = ground
+b. kabel merah = vcc
+c. kabel orange = data digital
+
+
